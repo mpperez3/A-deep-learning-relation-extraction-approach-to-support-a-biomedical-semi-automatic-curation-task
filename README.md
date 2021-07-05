@@ -24,7 +24,7 @@ Experimental results showed that the presented workflow is an excellent approach
 
 ## Code
 ****
-This folder contains the workflow and the code blocks implemented in the Rapidminer tool necessaries to carried out the explained steps proposed in the paper.
+This folder contains the workflow and the code blocks implemented in the Rapidminer tool as an example to carried out the explained steps proposed.
 
 - Sentence processing
 - Vector-space transformation (One hot encoding, Normalisation, etc)
